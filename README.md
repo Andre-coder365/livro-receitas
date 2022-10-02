@@ -1,6 +1,9 @@
-# LIVRO DE RECEITAS 👨🍳‍
+# LIVRO DE RECEITAS 👨‍🍳🍝
 
-### Olá, bem vindo ao meu livro de receitas 👋
+Olá, bem vindo ao meu livro de receitas 👋
 
-##### • Strogonof de frango
-##### • Pavê
+Receitas que serão em breve adicionadas:
+
+- Pizza Calabresa
+- Strogonoff de frango
+- Pavê
